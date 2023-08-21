@@ -1,3 +1,3 @@
 # codereview
-Code Review
-Welcoem to the world of Git PR
+Code Reviewed
+Welcome to the world of Git PR
